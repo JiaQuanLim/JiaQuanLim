@@ -4,7 +4,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "Hello, my name is Joseph(Jia Quan). I love Vancouver as it has many fantastic places to visit that rewards me with beautiful scenery! Thank you for reading!"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nThe University of British Columbia | Vancouver Master of Data Science | Sept 2024 - June 2025\nSunway University | Malaysia Bachelor of Information System(Data Analytics) | 2021 - 2024"
   },
   {
     "objectID": "index.html",
