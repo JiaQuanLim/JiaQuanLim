@@ -2,4 +2,13 @@
 title: "About"
 ---
 
-About this site
+Hello, my name is Joseph(Jia Quan). I love Vancouver as it has many fantastic places to visit that rewards me with beautiful scenery! Thank you for reading!
+
+
+## Education
+
+The University of British Columbia | Vancouver
+Master of Data Science | Sept 2024 - June 2025
+
+Sunway University | Malaysia
+Bachelor of Information System(Data Analytics) | 2021 - 2024
