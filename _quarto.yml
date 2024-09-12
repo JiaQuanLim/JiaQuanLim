@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "DSCI 521: First website"
+  title: "JiaQuanLim"
   navbar:
     left:
       - href: index.qmd
