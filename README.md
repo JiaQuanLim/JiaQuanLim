@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&size=40&duration=3000&pause=500&color=07F724&vCenter=true&width=800&height=100&lines=Hello%2C+I'm+Joseph.;Welcome!+It's+a+great+pleasure+to+have+you+here.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&size=40&duration=3000&pause=500&color=07F724&vCenter=true&width=1200&height=100&lines=Hello%2C+I'm+Joseph.;Welcome!+It's+a+great+pleasure+to+have+you+here.)](https://git.io/typing-svg)
 
 </div>
 
@@ -60,7 +60,7 @@ End-to-end ML pipeline for phishing email detection.
 
 # 📫 Connect with Me  
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/jiaquanlim/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/JiaQuanLim"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
   <a href="mailto:josephjiaquan@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
