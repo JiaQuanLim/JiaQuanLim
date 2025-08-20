@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=700&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Hello%2C+I'm+Joseph+Lim)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&size=40&duration=3000&pause=500&color=07F724&vCenter=true&width=800&height=100&lines=Hello%2C+I'm+Joseph.;Welcome!+It's+a+great+pleasure+to+have+you+here.)](https://git.io/typing-svg)
 
 </div>
 
@@ -41,10 +41,12 @@ Outside of work, I recharge by hiking and playing badminton with friends. Whethe
 [![ggplot2](https://img.shields.io/badge/-ggplot2-665C87?style=flat&logo=r&logoColor=white)](https://ggplot2.tidyverse.org/)
 [![Shiny](https://img.shields.io/badge/-Shiny-276DC3?style=flat&logo=r&logoColor=white)](https://shiny.posit.co/)
 
-**Databases, Cloud**  
+**Databases & Cloud**  
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+
+---
 
 # 📂 Most Recent Projects  
 
@@ -54,7 +56,7 @@ End-to-end ML pipeline for phishing email detection.
 - Built a **stacked XGBoost ensemble**, improving F1-score by **40% over baseline**  
 - Packaged into a **containerized REST API**  
 
-
+---
 
 # 📫 Connect with Me  
 
