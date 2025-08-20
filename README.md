@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&size=40&duration=3000&pause=500&color=07F724&vCenter=true&width=1200&height=100&lines=Hello%2C+I'm+Joseph.;Welcome!+It's+a+great+pleasure+to+have+you+here.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&size=40&duration=3000&pause=500&color=07F724&vCenter=true&width=1200&height=40&lines=Hello%2C+I'm+Joseph.;Welcome!+It's+a+great+pleasure+to+have+you+here.)](https://git.io/typing-svg)
 
 ---
 
