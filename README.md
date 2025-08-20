@@ -57,9 +57,10 @@ End-to-end ML pipeline for phishing email detection.
 # 📫 Connect with Me  
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/jiaquanlim/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/JiaQuanLim"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
-  <a href="mailto:josephjiaquan@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/jiaquanlim/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/JiaQuanLim"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
+    <a href="mailto:josephjiaquan@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
+    <a href="https://jiaquanlim.github.io/JosephLim/"><img src="https://img.shields.io/badge/Website-8A2BE2" /></a>
 </div>
 
 ---
